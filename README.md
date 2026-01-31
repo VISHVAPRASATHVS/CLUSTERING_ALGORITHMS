@@ -1,5 +1,3 @@
-# clustering
-
 # Mall Customer Segmentation using Hierarchical Clustering
 
 Project Overview:
